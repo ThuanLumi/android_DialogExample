@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DialogExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Xin chào</string>
+    <string name="signin">Đăng nhập</string>
+    <string name="cancel">Hủy</string>
+
+    <string name="pick_color">Chọn một màu</string>
+    <string name="red">Đỏ</string>
+    <string name="green">Xanh lá</string>
+    <string name="blue">Xanh dương</string>
+
+    <string name="pick_toppings">Chọn topping</string>
+    <string name="onion">Hành</string>
+    <string name="lettuce">Xà lách</string>
+    <string name="tomato">Cà chua</string>
+    <string name="ok">OK</string>
+
+    <string name="dialog_start_game">Bắt đầu trò chơi</string>
+    <string name="start">Bắt đầu</string>
+
+</resources>

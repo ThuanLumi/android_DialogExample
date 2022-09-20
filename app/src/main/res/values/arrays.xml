@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colors_array">
+        <item>@string/red</item>
+        <item>@string/green</item>
+        <item>@string/blue</item>
+    </string-array>
+
+    <string-array name="toppings">
+        <item>@string/onion</item>
+        <item>@string/lettuce</item>
+        <item>@string/tomato</item>
+    </string-array>
+</resources>

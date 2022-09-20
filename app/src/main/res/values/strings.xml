@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin">Sign in</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="pick_color">Pick a color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+
+    <string name="pick_toppings">Pick your topping</string>
+    <string name="onion">Onion</string>
+    <string name="lettuce">Lettuce</string>
+    <string name="tomato">Tomato</string>
+    <string name="ok">OK</string>
+
+    <string name="dialog_start_game">Start Game</string>
+    <string name="start">Start</string>
+
+</resources>
